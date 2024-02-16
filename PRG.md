@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** PowerShell, SMTP <br>
 **Category:** Utility Script <br>
-**Order:** 0 <br>
+**Order:** 36 <br>
 
 ## Parameters
 
