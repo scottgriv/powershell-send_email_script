@@ -1,5 +1,5 @@
 # Author: Scott Grivner
-# Website: scottgrivner.dev
+# Website: linktr.ee/scottgriv
 
 # Configure
 $EmailFrom = "from_email@your_domain.com"
